@@ -16,7 +16,7 @@ function Projects() {
       description: "Comprehensive analysis of Indian Premier League data spanning 15 seasons. Created interactive dashboards to visualize team performance, player statistics, and match trends. Built an intuitive web application using Streamlit for data exploration and insights generation.",
       techStack: ["Python", "Pandas", "Seaborn", "Streamlit", "Plotly"],
       icon: "🏏",
-      githubLink: "https://github.com/srikar-1810/ipl-data-analysis",
+      githubLink: "https://github.com/srikar-1810/ipl-analytics-dashboard",
     },
     {
       id: 3,
