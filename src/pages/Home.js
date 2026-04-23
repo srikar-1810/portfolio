@@ -6,7 +6,7 @@ function Home() {
   const personalDetails = {
     name: "N. SAI SRIKAR",
     initials: "NS",
-    photo: `${process.env.PUBLIC_URL}/profile-photo.jpg`,
+    photo: `${process.env.PUBLIC_URL}/profile-photo.jpg?v=20260423`,
     phone: "+91 9398332327",
     email: "nadipallisrikar@gmail.com",
     collegeEmail: "se23uari079@mahindrauniversity.edu.in",
